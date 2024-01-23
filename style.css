@@ -196,3 +196,10 @@ nav ul li a {
         width: 90%;
     }
 }
+a {
+    color: #283d9a; 
+    text-decoration: none;
+}
+a:hover {
+    color: #283d9a; 
+}
